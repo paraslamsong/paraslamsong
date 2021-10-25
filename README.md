@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @paraslamsong
+- 👀 I’m interested in Programming, Robotics and Astronomy
+- 🌱 I’m currently learning Astrophysics, Software Developments
