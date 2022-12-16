@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @paraslamsong
 - 👀 I’m interested in Programming, Robotics and Astronomy
-- I am a flutter developer
+- I am Computer Engineer
